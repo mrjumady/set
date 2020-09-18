@@ -3,7 +3,7 @@
 //ikan hiyuu mamam tomat
 //error? bodomatttttt
 
-	echo "Bot Auto Claim Shooping Mall\n";
+	echo "Bot Auto Claim Shopping89\n";
         echo "Nomor : ";
         $nohp = trim(fgets(STDIN));
 	echo "Password : ";
