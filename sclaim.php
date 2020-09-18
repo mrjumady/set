@@ -4,10 +4,10 @@
 //error? bodomatttttt
 
 	echo "Bot Auto Claim Shooping Mall\n";
-    echo "Nomor : ";
+        echo "Nomor : ";
         $nohp = trim(fgets(STDIN));
 	echo "Password : ";
-		$pwd = trim(fgets(STDIN));
+	$pwd = trim(fgets(STDIN));
 
 		$masuk = login($nohp, $pwd);
 		$gasmasuk = json_decode($masuk, TRUE);
